@@ -33,7 +33,7 @@ This project demonstrates a configuration management system implemented in C++. 
 
 - C++20 compatible compiler (e.g., MSVC v143)
 - Visual Studio 2022 or later
-- nlohmann/json library (included in the project)
+- [nlohmann/json library](https://github.com/nlohmann/json) (included in the project)
 
 ## Installation
 
