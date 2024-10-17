@@ -66,9 +66,6 @@ To run the example:
   - `logger.hpp`: Logging utilities
 - `ext/`
   - `json.hpp`: nlohmann/json library
-- `example.vcxproj`: Visual Studio project file
-- `example.vcxproj.filters`: Visual Studio project filters
-- `example.vcxproj.user`: Visual Studio user-specific settings
 
 ## Contributing
 
